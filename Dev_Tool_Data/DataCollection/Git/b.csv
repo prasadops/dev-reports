@@ -1,0 +1,14 @@
+title:	Op 6534 new
+state:	MERGED
+author:	arunkumaropsmx
+labels:	
+assignees:	
+reviewers:	ramyaravi-opsmx (Approved)
+projects:	
+milestone:	
+number:	347
+url:	https://github.com/OpsMx/visibility-service/pull/347
+additions:	18
+deletions:	7
+--
+https://devopsmx.atlassian.net/browse/OP-6534 : Configured Connectors Approval Instance Id Updated

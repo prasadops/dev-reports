@@ -1,0 +1,7 @@
+IssueType,TotalCount,ToDo,InProgress,InVerification,PRRaised,Merged,Done
+Epic,11,2,7,0,0,0,2
+Story,63,14,33,5,1,0,10
+Task,17,3,4,3,0,0,7
+Sub-task,330,166,12,53,1,0,97
+Bug,8,1,3,3,0,0,1
+Test Case,0,0,0,0,0,0,0

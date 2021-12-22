@@ -1,0 +1,14 @@
+IssueKey,IssueType,CreatedOn,UpdatedOn,Status,Priority,Assignee,Sprint,Component,AggregateTimeSpent,AggregateTotalTime,OriginalTimeEstimate
+OP-9693,Test Case,2021-12-01T10:58:39.551+0530,2021-12-01T15:57:40.899+0530,To Do,High,M Karunakar Reddy,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,86400,86400,None
+OP-9763,Test Case,2021-12-01T15:10:05.927+0530,2021-12-07T11:24:16.283+0530,In Verification,Medium,Jayasree Kolukuluru,ISD Sprint 1 (01Dec21-14Dec21),OES,0,0,None
+OP-9770,Test Case,2021-12-01T15:29:17.495+0530,2021-12-07T11:24:28.628+0530,In Verification,Medium,Jayasree Kolukuluru,ISD Sprint 1 (01Dec21-14Dec21),OES,0,0,None
+OP-9771,Test Case,2021-12-01T15:31:09.942+0530,2021-12-07T11:24:39.247+0530,In Verification,Medium,Jayasree Kolukuluru,ISD Sprint 1 (01Dec21-14Dec21),OES,0,0,None
+OP-9773,Test Case,2021-12-01T15:36:11.848+0530,2021-12-07T11:24:49.506+0530,In Verification,Medium,Jayasree Kolukuluru,ISD Sprint 1 (01Dec21-14Dec21),OES,0,0,None
+OP-9783,Test Case,2021-12-01T16:57:06.626+0530,2021-12-03T17:23:19.472+0530,In Progress,Medium,Jayasree Kolukuluru,ISD Sprint 1 (01Dec21-14Dec21),OES,0,0,None
+OP-9784,Test Case,2021-12-01T16:57:42.193+0530,2021-12-03T17:13:50.670+0530,In Progress,Medium,Jayasree Kolukuluru,ISD Sprint 1 (01Dec21-14Dec21),OES,0,0,None
+OP-9785,Test Case,2021-12-01T16:58:34.616+0530,2021-12-03T17:26:10.609+0530,In Progress,Medium,Jayasree Kolukuluru,ISD Sprint 1 (01Dec21-14Dec21),OES,0,0,None
+OP-9786,Test Case,2021-12-01T16:59:24.822+0530,2021-12-03T17:12:03.586+0530,In Progress,Medium,Jayasree Kolukuluru,ISD Sprint 1 (01Dec21-14Dec21),OES,0,0,None
+OP-9910,Test Case,2021-12-02T12:14:47.824+0530,2021-12-03T12:48:43.491+0530,Done,High,nilavarasi,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,0,0,None
+OP-9927,Test Case,2021-12-02T14:06:34.932+0530,2021-12-02T22:08:13.321+0530,Done,High,nilavarasi,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,0,0,None
+OP-9929,Test Case,2021-12-02T14:08:59.170+0530,2021-12-02T22:08:17.380+0530,Done,High,nilavarasi,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,0,0,None
+OP-9931,Test Case,2021-12-02T14:10:35.570+0530,2021-12-02T22:08:20.993+0530,Done,High,nilavarasi,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,0,0,None

@@ -1,0 +1,6 @@
+Priority,IssuesInToDo,MovedToInProgress,MovedToPRRaised,MovedToApproved,MovedToInVerification,MovedToDone
+Highest,2,5,2,1,5,4
+High,207,3,2,0,8,2
+Medium,2,4,4,0,4,1
+Low,0,2,2,0,0,0
+Lowest,0,0,0,0,0,0

@@ -1,0 +1,38 @@
+IssueKey,IssueType,CreatedOn,UpdatedOn,Status,Priority,Assignee,Sprint,Component,AggregateTimeSpent,AggregateTotalTime,OriginalTimeEstimate
+OP-9641,Task,2021-12-01T09:12:52.800+0530,2021-12-03T10:23:35.343+0530,In Verification,High,Giribabu Thanikonda,ISD Sprint 1 (01Dec21-14Dec21),OES,43200,43200,None
+OP-9643,Task,2021-12-01T09:18:10.166+0530,2021-12-03T10:27:22.469+0530,In Verification,High,Vasantha Kumar Narayan,ISD Sprint 1 (01Dec21-14Dec21),OES,25200,25200,None
+OP-9750,Task,2021-12-01T14:05:37.279+0530,2021-12-02T09:35:48.244+0530,Done,High,Giribabu Thanikonda,ISD Sprint 1 (01Dec21-14Dec21),OES,10800,10800,None
+OP-9761,Task,2021-12-01T15:06:26.242+0530,2021-12-07T18:46:22.019+0530,In Progress,High,Ravikumar Hawaldar,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,0,0,None
+OP-9762,Task,2021-12-01T15:07:24.272+0530,2021-12-07T18:46:18.571+0530,In Progress,High,Ravikumar Hawaldar,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,0,0,None
+OP-9781,Task,2021-12-01T16:54:36.313+0530,2021-12-02T10:20:59.243+0530,Done,Medium,Jayasree Kolukuluru,ISD Sprint 1 (01Dec21-14Dec21),OES,0,7200,7200
+OP-9870,Task,2021-12-02T06:04:17.685+0530,2021-12-02T08:55:02.143+0530,In Progress,High,Satya Kiran Rayasam,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,0,0,None
+OP-9864,Task,2021-12-02T05:42:01.893+0530,2021-12-02T05:42:16.206+0530,In Progress,High,Satya Kiran Rayasam,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,0,0,None
+OP-9871,Task,2021-12-02T09:26:45.665+0530,2021-12-07T18:46:15.275+0530,In Progress,High,Ravikumar Hawaldar,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,0,0,None
+OP-9877,Task,2021-12-02T09:30:34.377+0530,2021-12-02T14:49:14.155+0530,Done,Medium,Giribabu Thanikonda,ISD Sprint 1 (01Dec21-14Dec21),OES,10800,10800,None
+OP-9878,Task,2021-12-02T09:32:30.863+0530,2021-12-02T18:17:55.298+0530,In Progress,High,Kavitha Karuppannan,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,10800,36000,36000
+OP-9879,Task,2021-12-02T09:32:48.810+0530,2021-12-02T09:40:53.726+0530,To Do,High,Sheetal Atre,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,0,0,None
+OP-9880,Task,2021-12-02T09:33:33.114+0530,2021-12-07T18:46:09.455+0530,In Progress,High,Ravikumar Hawaldar,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,0,0,None
+OP-9904,Task,2021-12-02T11:42:15.893+0530,2021-12-02T11:49:03.803+0530,In Progress,Medium,nilavarasi,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,7200,7200,7200
+OP-9926,Task,2021-12-02T14:03:44.831+0530,2021-12-03T09:12:46.406+0530,In Progress,High,Pranabjyoti Nath,ISD Sprint 1 (01Dec21-14Dec21),OES,1800,7200,7200
+OP-9939,Task,2021-12-02T14:47:05.240+0530,2021-12-02T18:02:00.346+0530,Done,Medium,Jayasree Kolukuluru,ISD Sprint 1 (01Dec21-14Dec21),OES,1800,3600,3600
+OP-9956,Task,2021-12-02T15:55:53.876+0530,2021-12-02T15:56:31.297+0530,In Progress,Medium,Ravi Shankar Pavushetti,ISD Sprint 1 (01Dec21-14Dec21),OES,0,14400,14400
+OP-10006,Task,2021-12-03T09:29:56.661+0530,2021-12-03T10:18:29.325+0530,To Do,Medium,Giribabu Thanikonda,ISD Sprint 1 (01Dec21-14Dec21),OES,0,0,None
+OP-10008,Task,2021-12-03T09:34:04.397+0530,2021-12-03T09:42:26.098+0530,In Progress,Medium,Giribabu Thanikonda,ISD Sprint 1 (01Dec21-14Dec21),OES,0,0,None
+OP-10124,Task,2021-12-06T16:53:47.156+0530,2021-12-07T18:01:50.274+0530,Done,Medium,Jayasree Kolukuluru,ISD Sprint 1 (01Dec21-14Dec21),OES,0,7200,7200
+OP-7630,Task,2021-10-04T20:45:33.634+0530,2021-12-09T12:53:11.589+0530,In Progress,Highest,Arunkumar,ISD Sprint 1 (01Dec21-14Dec21),OES,57600,57600,28800
+OP-7682,Task,2021-10-08T15:46:57.373+0530,2021-12-01T16:11:36.971+0530,In Progress,High,Jayasree Kolukuluru,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,0,0,None
+OP-7863,Task,2021-10-27T15:38:12.992+0530,2021-12-01T16:19:39.983+0530,To Do,Medium,Jayasree Kolukuluru,ISD Sprint 1 (01Dec21-14Dec21),OES,0,0,None
+OP-8920,Task,2021-11-25T12:50:36.420+0530,2021-12-03T12:54:41.484+0530,To Do,High,Satya Kiran Rayasam,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,0,0,None
+OP-9171,Task,2021-11-29T11:40:41.143+0530,2021-12-01T15:02:03.931+0530,Done,Highest,Sheetal Atre,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,0,0,None
+OP-9256,Task,2021-11-29T18:20:52.533+0530,2021-12-02T13:01:36.456+0530,In Verification,Highest,Pranav Bhaskaran,ISD Sprint 1 (01Dec21-14Dec21),OES,0,0,None
+OP-9258,Task,2021-11-29T18:29:47.491+0530,2021-12-02T20:50:50.391+0530,In Verification,High,Pranav Bhaskaran,ISD Sprint 1 (01Dec21-14Dec21),OES,0,0,None
+OP-9401,Task,2021-11-30T14:30:44.510+0530,2021-12-07T18:42:37.460+0530,In Progress,High,Ravikumar Hawaldar,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,0,0,None
+OP-9445,Task,2021-11-30T15:30:42.008+0530,2021-12-02T15:14:28.648+0530,In Progress,Medium,Jayasree Kolukuluru,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,0,28800,28800
+OP-9566,Task,2021-11-30T18:31:52.750+0530,2021-12-03T16:42:11.561+0530,Done,Medium,Madhanmohan Pulipati,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,3600,3600,None
+OP-9567,Task,2021-11-30T18:33:25.941+0530,2021-12-03T16:43:01.147+0530,Done,Medium,Madhanmohan Pulipati,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,0,0,None
+OP-9569,Task,2021-11-30T18:35:36.326+0530,2021-12-03T16:44:36.782+0530,Done,Medium,Madhanmohan Pulipati,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,0,0,None
+OP-9570,Task,2021-11-30T18:36:20.836+0530,2021-12-06T15:56:04.620+0530,Done,Medium,Madhanmohan Pulipati,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,0,0,None
+OP-9584,Task,2021-11-30T19:08:51.481+0530,2021-12-03T09:42:12.227+0530,Done,Highest,Kavitha Karuppannan,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,88200,172800,None
+OP-9585,Task,2021-11-30T19:09:39.556+0530,2021-12-06T21:29:31.693+0530,Done,Highest,Kavitha Karuppannan,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,16200,27000,14400
+OP-9592,Task,2021-11-30T19:11:42.726+0530,2021-12-07T09:21:16.057+0530,To Do,Highest,Kavitha Karuppannan,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,23400,23400,None
+OP-9603,Task,2021-11-30T19:17:08.162+0530,2021-12-02T12:13:46.522+0530,In Verification,Medium,srikanth,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,43200,43200,None

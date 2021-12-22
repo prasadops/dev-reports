@@ -1,0 +1,11 @@
+JobName,NumberOfBuilds,Successful,Failure,Aborted
+Dev-audit-service-jpa,25,25,0,0
+Dev-build-analytics-master,10,7,0,3
+Dev-build-commongate-master,6,3,0,3
+Dev-build-dashboard-master,6,3,0,3
+Dev-build-datascience-master,10,10,0,0
+Dev-build-platform-master,9,5,4,0
+Dev-build-oes-api-master,9,6,0,3
+Dev-ui-master-build,6,3,0,3
+Dev-build-visibility-master,7,4,0,3
+Total,88,66,4,18

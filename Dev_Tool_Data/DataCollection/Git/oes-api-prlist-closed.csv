@@ -1,0 +1,12 @@
+769	OP-9749: Bug fix for agentId in the response object	OP-9749-master	MERGED
+768	OP-9749: Bug fix for agentId in the response object	OP-9749-v3.10	MERGED
+766	OP-10902: Removed the loggers	OP-10902	MERGED
+765	OP-8150: Bug fix for ignore the while do Account validation	OP-8150-v3.10	MERGED
+764	OP-10602: Upgraded log4j dep to fix zero-day exploit that has been reported against the Log4J2 library	OP-10858-Log4j-Upgrade	MERGED
+763	OP-10471: Renamed methods to avoid confusions.	OP-10471-BlockerFixes	MERGED
+762	OP-10787: Setting error message. (#761)	OP-10787-v3.10	MERGED
+761	OP-10787: Setting error message.	OP-10787-Master	MERGED
+760	OP-7691: Bug fix for addressed sonar issues.	OP-7691	MERGED
+759	OP-10723: Bug fix for Evaluation for OPA Policy is failing when validating the OPA URL.	OP-10723	MERGED
+746	OP-8150: Bug fix for ignore the while do Account validation	OP-8150-master	MERGED
+745	OP-8150: Bug fix for ignore the while do Account validation	OP-8150-v3.10	CLOSED

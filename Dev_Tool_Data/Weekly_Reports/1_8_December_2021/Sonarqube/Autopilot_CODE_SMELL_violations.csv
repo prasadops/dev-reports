@@ -1,0 +1,8 @@
+RuleID,Description,Count
+java:S5361,"String#replace" should be preferred to "String#replaceAll",2
+java:S100,Method names should comply with a naming convention,1
+java:S112,Generic exceptions should never be thrown,1
+java:S125,Sections of code should not be commented out,1
+java:S1066,Collapsible "if" statements should be merged,1
+java:S5411,Boxed "Boolean" should be avoided in boolean expressions,1
+java:S3776,Cognitive Complexity of methods should not be too high,1

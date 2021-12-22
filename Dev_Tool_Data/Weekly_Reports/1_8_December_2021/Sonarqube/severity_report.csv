@@ -1,0 +1,10 @@
+ProjectName,Blocker,Critical,Major,Info,Minor
+Autopilot,0,4,4,0,2
+issue-generator,0,0,0,0,0
+oes-dashboard,0,0,0,0,0
+OES-Gate,0,0,0,0,0
+OES-Platform,0,0,0,0,11
+OES-Sapor,0,0,0,0,0
+OES-UI,0,24,227,0,62
+OES-Visibility,0,0,0,0,0
+restapp,0,0,0,0,0

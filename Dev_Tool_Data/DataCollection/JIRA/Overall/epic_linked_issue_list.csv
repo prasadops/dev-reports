@@ -1,0 +1,28 @@
+EpicKey,LinkIssueKey,LinkIssueType,LinkType,CreatedOn,UpdatedOn,Status,Priority,Assignee,AggregateTimeSpent,AggregateTotalTime,OriginalTimeEstimate
+OP-9296,OP-10724,Bug,Blocks,2021-12-21T10:41:40.261+0530,2021-12-22T11:17:25.630+0530,In Progress,Medium,Sri Harsha Kancharla,0,0,None
+OP-9296,OP-10729,Bug,Blocks,2021-12-21T10:41:40.261+0530,2021-12-22T11:17:25.630+0530,To Do,Low,Sri Harsha Kancharla,0,0,None
+OP-8559,OP-9846,Bug,Blocks,2021-12-21T10:41:40.261+0530,2021-12-22T11:17:25.630+0530,Done,High,Sri Harsha Kancharla,0,0,None
+OP-8557,OP-10574,Task,Blocks,2021-12-21T10:41:40.261+0530,2021-12-22T11:17:25.630+0530,In Progress,High,Sri Harsha Kancharla,0,0,None
+OP-8557,OP-9864,Task,Blocks,2021-12-21T10:41:40.261+0530,2021-12-22T11:17:25.630+0530,Done,High,Sri Harsha Kancharla,0,0,None
+OP-8551,OP-9957,Test,Blocks,2021-12-21T10:41:40.261+0530,2021-12-22T11:17:25.630+0530,Done,Medium,Sri Harsha Kancharla,0,0,None
+OP-8551,OP-9960,Test,Blocks,2021-12-21T10:41:40.261+0530,2021-12-22T11:17:25.630+0530,Done,Medium,Sri Harsha Kancharla,0,0,None
+OP-8551,OP-9979,Test,Blocks,2021-12-21T10:41:40.261+0530,2021-12-22T11:17:25.630+0530,Done,Medium,Sri Harsha Kancharla,0,0,None
+OP-8551,OP-9980,Test,Blocks,2021-12-21T10:41:40.261+0530,2021-12-22T11:17:25.630+0530,Done,Medium,Sri Harsha Kancharla,0,0,None
+OP-8551,OP-10074,Test,Blocks,2021-12-21T10:41:40.261+0530,2021-12-22T11:17:25.630+0530,Done,Medium,Sri Harsha Kancharla,0,0,None
+OP-8551,OP-10555,Test,Blocks,2021-12-21T10:41:40.261+0530,2021-12-22T11:17:25.630+0530,In Verification,Medium,Sri Harsha Kancharla,0,0,None
+OP-8551,OP-10552,Test,Cloners,2021-12-21T10:41:40.261+0530,2021-12-22T11:17:25.630+0530,In Verification,Medium,Sri Harsha Kancharla,0,0,None
+OP-8551,OP-10553,Test,Cloners,2021-12-21T10:41:40.261+0530,2021-12-22T11:17:25.630+0530,In Verification,Medium,Sri Harsha Kancharla,0,0,None
+OP-8551,OP-7558,Task,Duplicate,2021-12-21T10:41:40.261+0530,2021-12-22T11:17:25.630+0530,Done,Medium,Sri Harsha Kancharla,0,0,None
+OP-7914,OP-9333,Bug,Blocks,2021-12-21T10:41:40.261+0530,2021-12-22T11:17:25.630+0530,Done,Medium,Sri Harsha Kancharla,0,0,None
+OP-7730,OP-7630,Task,Blocks,2021-12-21T10:41:40.261+0530,2021-12-22T11:17:25.630+0530,In Progress,Highest,Sri Harsha Kancharla,0,0,None
+OP-7730,OP-6487,Task,Blocks,2021-12-21T10:41:40.261+0530,2021-12-22T11:17:25.630+0530,In Verification,High,Sri Harsha Kancharla,0,0,None
+OP-7655,OP-10626,Bug,Blocks,2021-12-21T10:41:40.261+0530,2021-12-22T11:17:25.630+0530,To Do,High,Sri Harsha Kancharla,0,0,None
+OP-7655,OP-10183,Bug,Blocks,2021-12-21T10:41:40.261+0530,2021-12-22T11:17:25.630+0530,Done,Highest,Sri Harsha Kancharla,0,0,None
+OP-7655,OP-10184,Bug,Blocks,2021-12-21T10:41:40.261+0530,2021-12-22T11:17:25.630+0530,Done,Highest,Sri Harsha Kancharla,0,0,None
+OP-7655,OP-10625,Bug,Blocks,2021-12-21T10:41:40.261+0530,2021-12-22T11:17:25.630+0530,Done,High,Sri Harsha Kancharla,0,0,None
+OP-7655,OP-10628,Bug,Blocks,2021-12-21T10:41:40.261+0530,2021-12-22T11:17:25.630+0530,Done,High,Sri Harsha Kancharla,0,0,None
+OP-7655,OP-10624,Bug,Blocks,2021-12-21T10:41:40.261+0530,2021-12-22T11:17:25.630+0530,ON HOLD,Highest,Sri Harsha Kancharla,0,0,None
+OP-7655,OP-10794,Bug,Blocks,2021-12-21T10:41:40.261+0530,2021-12-22T11:17:25.630+0530,ON HOLD,Highest,Sri Harsha Kancharla,0,0,None
+OP-6636,OP-6940,Task,Blocks,2021-12-21T10:41:40.261+0530,2021-12-22T11:17:25.630+0530,Done,High,Sri Harsha Kancharla,0,0,None
+OP-6636,OP-6782,Task,Blocks,2021-12-21T10:41:40.261+0530,2021-12-22T11:17:25.630+0530,In Verification,Medium,Sri Harsha Kancharla,0,0,None
+OP-6636,OP-6892,Task,Blocks,2021-12-21T10:41:40.261+0530,2021-12-22T11:17:25.630+0530,In Verification,Medium,Sri Harsha Kancharla,0,0,None

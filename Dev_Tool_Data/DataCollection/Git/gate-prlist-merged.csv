@@ -1,0 +1,7 @@
+100	Op 10701 gate url	OP-10701_gate_url	MERGED
+99	Op 10601 v3.10.1	OP-10601-v3.10.1	MERGED
+98	upgraded the fiat version, kork version and spinnaker gradle version	OP-10785-v3.10	MERGED
+97	upgraded the fiat version, kork version and spinnaker gradle version	OP-10785-v3.9	MERGED
+96	upgraded the fiat version, kork version and spinnaker gradle version	OP-10785-v3.8	MERGED
+95	log4j-custom-plugin changed to 2.16.0	plugins-log4j	MERGED
+94	OP-10610 : Minor login fixes. Log statements to debug login issues.	OP-10610-logs	MERGED

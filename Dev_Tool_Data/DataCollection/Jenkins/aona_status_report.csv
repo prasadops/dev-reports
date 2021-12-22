@@ -1,0 +1,10 @@
+JobName,NumberOfBuilds,Successful,Failure,Aborted
+Dev-audit-service-jpa,38,37,1,0
+Dev-autopilot-build-branch-ds-ms,23,22,1,0
+Dev-ds-build-branch-ds-ms,23,22,1,0
+Dev-platformservice-build-branch,17,16,0,1
+Dev-dashboardservice-build-branch,6,6,0,0
+Dev-sapor-build-branch,24,24,0,0
+Dev-visibilityservice-build-branch,7,7,0,0
+Dev-build-commongate-branch,45,42,3,0
+Total,183,176,6,1

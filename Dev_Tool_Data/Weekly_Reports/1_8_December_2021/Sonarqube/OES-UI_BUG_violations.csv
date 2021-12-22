@@ -1,0 +1,9 @@
+RuleID,Description,Count
+Web:TableHeaderHasIdOrScopeCheck,"<th>" tags should have "id" or "scope" attributes,15
+Web:BoldAndItalicTagsCheck,"<strong>" and "<em>" tags should be used,12
+css:S4656,Properties should not be duplicated,2
+css:S4649,Font declarations should contain at least one generic font family,2
+typescript:S905,Non-empty statements should change control flow or have at least one side-effect,2
+typescript:S2201,Return values from functions without side effects should not be ignored,2
+css:S4670,Selectors should be known,1
+typescript:S3923,All branches in a conditional structure should not have exactly the same implementation,1

@@ -1,0 +1,6 @@
+IssueType,Total,ToDo,InProgress,InVerification,Done
+Epic,12,5,7,0,0
+Stories,77,33,28,10,3
+Task,29,4,16,3,6
+SubTask,437,297,46,32,57
+Bugs,13,4,5,1,3

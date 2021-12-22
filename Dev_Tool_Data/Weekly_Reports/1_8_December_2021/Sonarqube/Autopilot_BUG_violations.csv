@@ -1,0 +1,2 @@
+RuleID,Description,Count
+java:S2259,Null pointers should not be dereferenced,1

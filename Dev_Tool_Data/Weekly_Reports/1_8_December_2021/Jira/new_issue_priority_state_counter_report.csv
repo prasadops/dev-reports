@@ -1,0 +1,31 @@
+IssueType,Priority,ToDo,InProgress,InVerification,PRRaised,Merged,Done
+Epic,Highest,0,0,0,0,0,0
+Epic,High,2,2,0,0,0,0
+Epic,Medium,1,1,0,0,0,0
+Epic,Low,0,0,0,0,0,0
+Epic,Lowest,0,0,0,0,0,0
+Story,Highest,1,0,0,0,0,0
+Story,High,3,4,2,0,0,2
+Story,Medium,0,4,5,0,0,0
+Story,Low,0,0,0,0,0,0
+Story,Lowest,0,0,0,0,0,0
+Task,Highest,0,0,0,0,0,0
+Task,High,1,8,2,0,0,1
+Task,Medium,1,3,0,0,0,4
+Task,Low,0,0,0,0,0,0
+Task,Lowest,0,0,0,0,0,0
+Sub-task,Highest,1,1,2,0,0,2
+Sub-task,High,9,8,3,0,0,10
+Sub-task,Medium,52,14,26,0,0,33
+Sub-task,Low,1,0,0,0,0,0
+Sub-task,Lowest,1,0,0,0,0,0
+Bug,Highest,0,1,0,0,0,2
+Bug,High,1,2,0,0,0,13
+Bug,Medium,0,0,0,0,0,1
+Bug,Low,0,0,0,0,0,0
+Bug,Lowest,0,0,0,0,0,0
+Test Case,Highest,0,0,0,0,0,0
+Test Case,High,1,0,0,0,0,4
+Test Case,Medium,0,4,4,0,0,0
+Test Case,Low,0,0,0,0,0,0
+Test Case,Lowest,0,0,0,0,0,0

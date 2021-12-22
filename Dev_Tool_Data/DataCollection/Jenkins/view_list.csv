@@ -1,0 +1,27 @@
+ViewName
+AKS-cluster-start-deallocate
+Autopilot
+AzureResource
+Build Image
+EFK-cluster
+IBM
+OES-Sonar-Jobs
+RC-build-images-oes
+Reports
+Xilinx
+all
+create oes
+demo
+demo1191
+demospin-AKS
+demospin-GKE
+demospin-aks
+k8stest
+kube-config-mgmt
+miscellaneous
+oes-release-builds
+oes-release-push
+olddemo
+operator
+opsmxdev-publish-image-oes
+spinnaker

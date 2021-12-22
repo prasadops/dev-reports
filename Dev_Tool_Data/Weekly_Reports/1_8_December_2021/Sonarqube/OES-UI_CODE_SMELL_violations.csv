@@ -1,0 +1,27 @@
+RuleID,Description,Count
+typescript:S125,Sections of code should not be commented out,72
+Web:AvoidCommentedOutCodeCheck,Sections of code should not be commented out,32
+typescript:S1128,Unnecessary imports should be removed,27
+typescript:S3358,Ternary operators should not be nested,25
+typescript:S1854,Unused assignments should be removed,17
+typescript:S4144,Functions should not have identical implementations,16
+typescript:S1186,Functions should not be empty,15
+typescript:S1121,Assignments should not be made from within sub-expressions,15
+typescript:S3776,Cognitive Complexity of functions should not be too high,8
+css:S4667,CSS files should not be empty,5
+typescript:S4325,Redundant casts and non-null assertions should be avoided,5
+typescript:S1117,Variables should not be shadowed,5
+typescript:S1788,Function parameters with default values should be last,4
+typescript:S4138,"for of" should be used with Iterables,4
+typescript:S1116,Extra semicolons should be removed,4
+typescript:S1871,Two branches in a conditional structure should not have exactly the same implementation,3
+typescript:S108,Nested blocks of code should not be left empty,3
+typescript:S1488,Local variables should not be declared and then immediately returned or thrown,3
+css:S1116,Extra semicolons should be removed,2
+typescript:S6353,Regular expression quantifiers and character classes should be used concisely,2
+typescript:S4165,Assignments should not be redundant,2
+typescript:S107,Functions should not have too many parameters,2
+typescript:S1125,Boolean literals should not be used in comparisons,2
+css:S4666,Selectors should not be duplicated,1
+typescript:S3863,Imports from the same modules should be merged,1
+typescript:S2814,Variables and functions should not be redeclared,1

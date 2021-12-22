@@ -1,0 +1,10 @@
+820	getPipeline Type Updated	OP-6534-new	MERGED
+819	Caching added for API : platformservice/v1/datasource	OP-10251	MERGED
+818	Commented Github test case	Testcasefix-3.10.1	MERGED
+817	Corrected vault url and token	buildfix	MERGED
+816	Op 10561	OP-10561	MERGED
+815	Op 10677 v3.10.1	OP-10677-v3.10.1	MERGED
+814	OP-10263 : Fxied sonarqube slash issue	OP-10263	MERGED
+813	OP-10628 : Fixed Prisma cloud wrong url issue and repalce jar file	OP-10628	MERGED
+812	Op 10425 - Write JUNIT test cases for update cache part in platform service	OP-10425	MERGED
+795	Op 6534	OP-6534	CLOSED

@@ -1,0 +1,18 @@
+IssueKey,IssueType,CreatedOn,UpdatedOn,Status,Priority,Assignee,Sprint,Component,AggregateTimeSpent,AggregateTotalTime,OriginalTimeEstimate
+OP-9663,Epic,2021-12-01T09:53:30.680+0530,2021-12-08T12:37:43.146+0530,In Progress,High,Jayakumar Soundararadjalou,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,154800,194400,None
+OP-9664,Epic,2021-12-01T09:54:04.887+0530,2021-12-08T09:20:59.608+0530,In Progress,High,Jayakumar Soundararadjalou,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,0,0,None
+OP-9696,Epic,2021-12-01T11:01:11.015+0530,2021-12-09T15:29:57.691+0530,To Do,High,Neelima Manubolu,ISD Sprint 1 (01Dec21-14Dec21),OES,201600,201600,None
+OP-9698,Epic,2021-12-01T11:01:59.837+0530,2021-12-08T09:20:59.600+0530,In Progress,Medium,Jayasree Kolukuluru,ISD Sprint 1 (01Dec21-14Dec21),OES,16200,43200,None
+OP-9748,Epic,2021-12-01T13:15:17.177+0530,2021-12-01T22:47:21.963+0530,To Do,Medium,Anjali Batra,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,0,144000,144000
+OP-9840,Epic,2021-12-01T19:20:09.028+0530,2021-12-08T09:20:59.599+0530,To Do,High,Madhanmohan Pulipati,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,3600,3600,None
+OP-7655,Epic,2021-10-06T18:14:54.170+0530,2021-12-08T11:41:30.914+0530,In Progress,Highest,Sri Harsha Kancharla,ISD Sprint 1 (01Dec21-14Dec21),OES,0,12780,780
+OP-8550,Epic,2021-11-22T18:03:26.908+0530,2021-12-08T09:34:58.417+0530,To Do,Highest,Rahulgandhi Chekuri,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,0,0,None
+OP-8552,Epic,2021-11-22T18:03:35.752+0530,2021-12-09T12:56:04.210+0530,In Progress,Highest,Ramya Ravi,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,0,0,None
+OP-8554,Epic,2021-11-22T18:03:42.832+0530,2021-12-08T09:34:09.845+0530,In Progress,Highest,Luthan T B,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,57600,57600,None
+OP-8555,Epic,2021-11-22T18:03:46.814+0530,2021-12-08T09:34:09.512+0530,Done,Highest,Jayasree Kolukuluru,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,0,0,None
+OP-8559,Epic,2021-11-22T18:45:36.103+0530,2021-12-08T09:34:09.439+0530,In Progress,Highest,Sheetal Atre,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,21600,50400,None
+OP-8560,Epic,2021-11-22T18:45:41.229+0530,2021-12-08T09:30:21.709+0530,Done,Highest,Arunkumar,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,51300,54300,None
+OP-8619,Epic,2021-11-23T16:50:06.194+0530,2021-12-09T15:00:28.128+0530,In Progress,Highest,Meera Ann Jose,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,86400,174600,None
+OP-8620,Epic,2021-11-23T16:50:12.598+0530,2021-12-08T09:28:30.713+0530,In Progress,Highest,Anjali Batra,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,0,691200,None
+OP-8749,Epic,2021-11-24T12:37:56.815+0530,2021-12-08T09:39:10.578+0530,To Do,High,Sri Harsha Kancharla,ISD Sprint 1 (01Dec21-14Dec21),OES,0,0,None
+OP-9553,Epic,2021-11-30T17:42:48.494+0530,2021-12-08T09:28:30.947+0530,In Progress,Medium,srikanth,ISD Sprint 1 (01Dec21-14Dec21),OES,43200,43200,None

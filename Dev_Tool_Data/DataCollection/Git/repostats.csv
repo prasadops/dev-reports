@@ -1,0 +1,11 @@
+repoName, OpenPRCount, MergedPRCount, ClosedPRCount, ForcefullyClosedPR, CommitsInOpenPRs, CommitsInMergedPRs, CommitsInClosedPRs, CommitsInForcefullyClosedPRs, NumberofJiraIDs, NumberOfFilesChanged, NumberOfLinesChanged, NumberOfLinesAdded, NumberOfLinesDeleted, NumberOfContributors
+Analytics, 5, 8, 24, 16, 13, 81, 127, 46, 14, 524, 16193, 11086, 5107, 5
+oes-ui, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+oes-api, 1, 11, 12, 1, 1, 11, 11, 0, 9, 19, 170, 107, 63, 3
+oes-test, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+audit-client-service, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+gate, 0, 7, 7, 0, 0, 12, 12, 0, 5, 16, 123, 83, 40, 5
+platform-service, 0, 9, 10, 1, 0, 14, 20, 6, 7, 52, 808, 753, 55, 4
+visibility-service, 0, 2, 3, 1, 0, 3, 6, 3, 2, 19, 111, 79, 32, 3
+dashboard-service, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+audit-service, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
